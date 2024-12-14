@@ -1,0 +1,50 @@
+[  
+  {
+    "author": "Jack Halpern",
+    "description": "Numerous features distinguish the New Japanese-English Japanese Character Dictionary, along with its various spinoff products, as the most authoritative and easy-to-use kanji learning tool available today.",
+    "image": "http://www.kanji.org/dictionaries/images/kanei1_new.jpg",
+    "isbn": "978-4767490403",
+    "name": "New Japanese-English Character Dictionary",
+    "publication": "1990"
+  },
+  {
+    "author": "Jack Halpern",
+    "description": "More than ever before, learners of Japanese need effective tools designed to break through the formidable barrier posed by the Japanese script. This dictionary aims to answer the urgent need for an easy-to-use kanji dictionary small enough to be easily carried around yet detailed enough to satisfy the practical needs of serious beginners and intermediate learners. Its basic goal is to give you an in-depth understanding of how kanji are used in contemporary Japanese. A totally new system gives you instant access to a wealth of highly useful information, enabling you to quickly locate the meanings, readings, and compound words for about 98% of the most frequently used kanji.",
+    "image": "http://www.kanji.org/dictionaries/images/jacket_final.png",
+    "isbn": "978-4770023353",
+    "name": "The Kodansha Kanji Learner's Dictionary",
+    "publication": "1999"
+  },
+  {
+    "author": "Jack Halpern",
+    "description": "The highly anticipated second edition of The Kodansha Kanji Learner's Dictionary (KKLD), published in May, 2013, retains all the features that made the original 1999 parent work so popular, but includes several enhancements. This includes core meanings, detailed character meanings, stroke order diagrams, cross-references to homophones, numerous compounds and examples, and a speedy indexing system. Yet it also includes numerous enhancements, including hundreds of new kanji reflecting recent revisions to the Jōyō and Jinmei Kanji lists (the sets of characters prescribed by the Japanese government for use in writing and in personal names). With 3,002 character entries, 772 more than in the first print edition, this is the most comprehensive and up-to-date dictionary of its kind.",
+    "image": "http://www.kanji.org/dictionaries/images/KKLD_cover_250.jpg",
+    "isbn": "978-1568364070",
+    "name": "The Kodansha Kanji Learner's Dictionary: Revised and Expanded",
+    "publication": "2013"
+  },
+  {
+    "author": "Jack Halpern",
+    "description": "The Kodansha Kanji Dictionary (KKD), a revised, expanded edition published in August, 2013 of Jack Halpern's groundbreaking New Japanese-English Character Dictionary (published by Kenkyusha in 1990), is the most complete, linguistically accurate, and up-to-date dictionary of its kind. The culmination of more than a quarter of a century of labor, over 100 man-years, this authoritative and easy-to-use dictionary has been celebrated the world over by students and teachers of the Japanese language for its wealth of detailed information on the meanings and usages of Sino-Japanese characters.",
+    "image": "http://www.kanji.org/dictionaries/images/KKD_cover_250.jpg",
+    "isbn": "978-1568364087",
+    "name": "The Kodansha Kanji Dictionary",
+    "publication": "2013"
+  },
+  {
+    "author": "Jack Halpern",
+    "description": "With headwords arranged in Japanese a-i-u-e-o order and thousands of illustrative examples of kanji in context, the Usage Guide is at once a dictionary and a manual—an all-around resource for clarity on kanji used in kun homophones. Armed with this unique guide, learners will discover in kanji new meanings they never knew existed, and learn to write Japanese more articulately than ever before.",
+    "image": "http://www.kanji.org/dictionaries/usage/usagecover_vert239.jpg",
+    "isbn": "978-1568365596",
+    "name": "The Kodansha Kanji Usage Guide: An A to Z of Kun Homophones",
+    "publication": "2015"
+  },
+  {
+    "author": "Jack Halpern",
+    "description": "The Kodansha Kanji Synonyms Guide is a new type of reference work that enables intermediate and advanced learners to deepen their understanding of how kanji synonyms are used in contemporary Japanese. Based on the author's world renowned The Kodansha Kanji Dictionary, this new work serves as the first ever bilingual kanji thesaurus, and offers complete guidance on the precise distinctions between characters of similar meaning, referred to as kanji synonyms.",
+    "image": "http://www.kanji.org/dictionaries/images/kanji_synonyms_small.jpg",
+    "isbn": "978-1568365855",
+    "name": "The Kodansha Kanji Synonyms Guide",
+    "publication": "2018"
+  }
+]
